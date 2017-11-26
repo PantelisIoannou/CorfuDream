@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "46.101.142.74",
+    "username": "root",
+    "password": "7Zdd31s0",
+    "port": 22,
+    "remotePath": "/var/www/html/corfudream",
+    "uploadOnSave": true
+}

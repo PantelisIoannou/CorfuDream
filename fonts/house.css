@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("house.eot");
+	src: url("house.eot#iefix") format("embedded-opentype"),
+	url("house.woff") format("woff"),
+	url("house.ttf") format("truetype"),
+	url("house.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-home168:before {
+	content: "\e000";
+}

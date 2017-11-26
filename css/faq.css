@@ -1,0 +1,13 @@
+
+.box {
+  background: #e67e22;
+  color: white;
+  padding: 20px;
+}
+
+.draw {
+  display: none;
+  background: white;
+  border: 1px solid #c3c3c3;
+  padding: 20px;
+}
