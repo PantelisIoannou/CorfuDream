@@ -52,17 +52,25 @@ class Footer{
 
 					 <div>
 
-					  <p class="footer-text"><span><i style="padding-right:10px; color:#000;" class="fa fa-map-marker"></i>Pelekas</span> Corfu, Greece</p>
+					  <p class="footer-text"><span><i style="padding-right:10px; color:#000;" class="fa fa-map-marker"></i>Barbati</span> Corfu, Greece</p>
 					</div>
 
-		
 					<div>
 
-					  <p class="footer-text"><i style="padding-right:10px; color:#000;"class="fa fa-envelope"></i> <a href="mailto:support@company.com">panioan_13a@yahoo.com</a></p>
+					  <p class="footer-text"> <i style="padding-right:10px; color:#000;" class="fa fa-phone"></i>+30 6980921811</p>
+					</div>
+
+					<div>
+
+					  <p class="footer-text"><i style="padding-right:10px; color:#000;"class="fa fa-envelope"></i> <a href="mailto:support@company.com">info@corfudream.com</a></p>
 					</div>
 					<div>
 
-					  <p class="footer-text"><i style="padding-right:10px;font-size: 25px; color:#000;"class="fa fa-clock-o"></i> Monday to Sunday 10:00 - 23:00</p>
+					  <p class="footer-text"><i style="padding-right:10px;font-size: 25px; color:#000;"class="fa fa-clock-o"></i> Monday to Sunday 10:00 - 20:00</p>
+					</div>
+					<div>
+
+					  <p class="footer-text"><img style="padding-right:10px;width:35px;height:25px;" src="img/clock.png" /> Service Mobile: +30 6970989232</p>
 					</div>
 					</div>
 				</div>

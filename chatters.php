@@ -129,7 +129,7 @@
       margin-top: 50%;
       border-radius: 3px;">Contact us to help you!<br>
           Name your request and
-          we'll get in touch with you within 48 hours</h3>
+          we'll get in touch with you within 24 hours</h3>
   </div>
   <div class="col-md-7" style="
   font-weight: 100;

@@ -11,7 +11,7 @@
 		  echo $keywords; ?>
     <meta name="author" content="">
 
-    <title>Corfu Dream Sophisticated Rentals</title>
+    <title>Corfu Dream</title>
 
 	<link rel="icon" type="image/ico" href="img/cd.ico"
 

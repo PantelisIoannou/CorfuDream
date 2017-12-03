@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Corfu Dream Sophisticated Rentals</title>
+    <title>Corfu Dream</title>
 
 	<link rel="icon" type="image/ico" href="img/cd.ico"
 
@@ -35,7 +35,7 @@
 	<!-- PHP Connections -->
 	 <?php include './php/navbar.php' ?>
 	 <?php include './php/footer.php' ?>
-	 <?php include './php/CollectionSlider' ?>
+	 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -179,7 +179,7 @@
                         <div class="col-sm-12">
 						  
                           <p>Corfudream has given us necessary and quality guidance in every aspect of property management, especially because we were handling everything from out of country. They were very helpful with easing our minds and taking care of everything that needed to be handled. The transactions all went very smoothly and we couldn’t be happier. We look forward to working with Corfudream again this summer when we put our house on the market.</p>
-						  <h4 style="font-weight: bold;text-align:right;">- P.N Barbati Corfu</h4>
+						  <h4 style="font-weight: bold;text-align:right;">- D.T Glyfada Corfu</h4>
 						</div>
                       </div>
                     </blockquote>
@@ -191,7 +191,7 @@
 
                         <div class="col-sm-12">						  
                           <p>Corfudream has been a great partner to work with for managing my property. They have all the qualities that I was looking in a partner: professionalism, accuracy and efficiency.</p>
-						  <h4 style="font-weight: bold;text-align:right;">- H.I Barbati Corfu</h4>
+						  <h4 style="font-weight: bold;text-align:right;">- A.I Pelekas Corfu</h4>
                         </div>
                       </div>
                     </blockquote>
@@ -203,7 +203,7 @@
 
                         <div class="col-sm-12">						  
                           <p>It was a pleasure working with Corfudream over the last year. Their concierge team is top notch! I know that when I’m not present Corfudream is taking care of my guests.</p>
-						  <h4 style="font-weight: bold; text-align:right;">- V.M Kassiopi Corfu </h4>
+						  <h4 style="font-weight: bold; text-align:right;">- B.M Kavos Corfu </h4>
                         </div>
                       </div>
                     </blockquote>

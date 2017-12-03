@@ -81,7 +81,7 @@ body {
 		
 		<div style="float:right">
 			<h1> Thank you for contacting </h1>
-			<h4> You will recieve an email </h4>
+			<h4> You will receive an email </h4>
 			<p>We  <i style="color: #868;" class="fa fa-heart"></i>  corfu <br>
 			<a href="index.php"><span>To the start</span></a>
 			</p>
